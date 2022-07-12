@@ -1,0 +1,5 @@
+INFO OVER VERSCHILLENDE HANDLEIDINGEN:
+
+master = default code met handleiding
+uitwerkingen-uitwerkingen-bonus-controlled-components-with-email = code met handleiding
+uitwerkingen-uitwerkingen-bonus-react-hook-form-with-email = code met handleiding
